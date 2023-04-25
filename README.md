@@ -1,6 +1,5 @@
 # reboot2023
-My first repository
+My first repository for Reboot 1.0 in 2023.
+Just learning how to do things.
 
-## My first joke on github
-
-cats
+cats are cool
